@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Batista 👋
 
-Systems Control Engineer working on EPMS, BMS and SCADA systems for Data Centers. Outside my professional work, I enjoy building software projects, producing music, playing chess and exploring new technologies.
+Systems Control Engineer working on EPMS, BMS and SCADA systems for Data Centers. Outside my professional work, I enjoy building software projects, producing music, playing chess and exploring new ideas.
  
 ## Current Projects
  
