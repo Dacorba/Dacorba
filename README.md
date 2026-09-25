@@ -11,7 +11,7 @@ Productivity and workflow management application.
 Personal finance and expense tracking application.
  
 ### Routing Optimization for Mobile Robots
-Master's thesis project focused on route optimization algorithms.
+Master's thesis focused on route optimization and charging point placement for mobile robots.
  
 ## Interests
  
